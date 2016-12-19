@@ -37,6 +37,6 @@ echo "/usr/local/lib" >> /etc/ld.so.conf
 ldconfig  
 ```
 
-[客户端部分参数设置](https://github.com/Joehaivo/onekey-shadowsocks-kcptun/wiki)
+###[客户端部分参数设置](https://github.com/Joehaivo/onekey-shadowsocks-kcptun/wiki)
 
 脚本来源：[teddysun](https://github.com/teddysun)  [kuoruan](https://github.com/kuoruan)
