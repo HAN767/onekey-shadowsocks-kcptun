@@ -1,5 +1,5 @@
 # onekey-shadowsocks-kcptun 
-一键部署shadowsock（影梭）和KCPtun（网络加速工具）到你的VPS服务器.  
+快速部署shadowsock（影梭）和KCPtun（网络加速工具）到你的VPS服务器.  
 ###[English version](https://github.com/Joehaivo/onekey-shadowsocks-kcptun/blob/master/README-en.md)
 ***********
 ###运行环境:
